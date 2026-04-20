@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+.env
+.env.docker
+api/
+*.api
+*.api.*
+api.env
+api.local.env
+src/frontend/lib/api.js
+razorpay.env
+razorpay.local.env
+*razorpay*.key
+*razorpay*.secret
